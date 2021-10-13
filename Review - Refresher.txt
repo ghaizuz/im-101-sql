@@ -1,0 +1,10 @@
+SQL Refresher
+MySQL,version is  5.7.32 ,i used it from my past database subject.
+
+I refresh from the start to end from my last subject
+i login in and exit to the MySQL
+Entering Queries and CREATING DATABASE,"DESCRIBING THE TABLE CONTENT" and 
+SHOW DATABASES so you can pick whitch database you want to use then USE DATABASE
+then create a table by using this Queries "CREATE TABLE table_name ();"
+inserting data using "INSERT INTO table_name();"
+to enter your table you use "SELECT * FROM table_name;"
